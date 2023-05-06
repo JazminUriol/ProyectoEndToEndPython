@@ -1,1 +1,8 @@
-
+cloud_storage:
+  credentials: "/user/app/proyecto-dep11-382302-ad5969f091c7.json"
+  
+mysql:
+  host: "192.168.18.9"
+  user: "root"
+  pass: "root"
+  port: "3310"
